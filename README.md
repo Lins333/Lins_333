@@ -1,6 +1,6 @@
 # Olá! Eu sou Gabriel Lins 👋
 
-Meu nome é Gabriel , sou analista de dados e entusiasta de tecnologia com um amor especial por ferramentas de business intelligence e programação no geral. 
+Meu nome é Gabriel ,sou analista de dados e entusiasta de tecnologia com um amor especial por ferramentas de business intelligence e programação no geral. 
 
 ## Sobre Mim
 
