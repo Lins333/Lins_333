@@ -6,7 +6,7 @@ Meu nome é Gabriel, sou analista de dados e entusiasta de tecnologia com um amo
 
 - 🎓 **Formação:** Graduado em Administração com foco em Comércio Exterior pela Universidade Presbiteriana Mackenzie.
   
-- 💼 **Experiência Profissional:** Tenho 28 anos de idade e possuo 5 anos de experiência com análise de dados, ETL, formulação de relatórios e dashboards de KPI's e programação.
+- 💼 **Experiência Profissional:** Tenho 28 anos de idade e possuo 5 anos de experiência com análise de dados, ETL, formulação de relatórios, dashboards de KPI's e programação.
   
 - 🛠️ **Habilidades:** 
   - Linguagens de Programação: Python, R.
@@ -15,7 +15,7 @@ Meu nome é Gabriel, sou analista de dados e entusiasta de tecnologia com um amo
     
 - 🌱 **Aprendizado Atual:** Atualmente, estou aprendendo a ferramenta de Cloud em Azure.
   
-- 📚 **Projetos Recentes:** - [Nome do Projeto 1](link-do-projeto)
+- 📚 **Projetos Recentes:** - [Nome do Projeto 1](https://github.com/Lins333/Lins_333/blob/main/Quality_Of_Living_Dataset.xlsx)
 
   
 ## Interesses Pessoais
